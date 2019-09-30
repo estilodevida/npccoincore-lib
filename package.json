@@ -1,8 +1,8 @@
 {
-  "name": "@dashevo/dashcore-lib",
+  "name": "@npccoin/npccoincore-lib",
   "version": "0.17.9",
-  "description": "A pure and powerful JavaScript Dash library.",
-  "author": "Dash Core Group, Inc. <dev@dash.org>",
+  "description": "A pure and powerful JavaScript NPCcoin library.",
+  "author": "NPCcoin Core Group, Inc. <npccoin@gmail.com>",
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
@@ -64,7 +64,7 @@
     },
     {
       "name": "Jon Kindel",
-      "email": "jon@dash.org"
+      "email": "jon@npccoin.com"
     },
     {
       "name": "Alex Werner",
@@ -76,7 +76,7 @@
     }
   ],
   "keywords": [
-    "dash",
+    "npccoin",
     "transaction",
     "address",
     "p2p",
@@ -90,21 +90,21 @@
     "bip69",
     "bip70",
     "multisig",
-    "dashcore"
+    "npccoincore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dashevo/dashcore-lib.git"
+    "url": "https://github.com/npccoin/npccoincore-lib.git"
   },
   "bugs": {
-    "url": "https://github.com/dashevo/dashcore-lib/issues"
+    "url": "https://github.com/npccoin/npccoincore-lib/issues"
   },
-  "homepage": "https://github.com/dashevo/dashcore-lib",
+  "homepage": "https://github.com/npccoin/npccoincore-lib",
   "browser": {
     "request": "browser-request"
   },
   "dependencies": {
-    "@dashevo/x11-hash-js": "^1.0.2",
+    "@npccoin/x11-hash-js": "^1.0.2",
     "bloom-filter": "^0.2.0",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",

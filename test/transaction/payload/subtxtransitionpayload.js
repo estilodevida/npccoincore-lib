@@ -4,13 +4,13 @@
 var expect = require('chai').expect;
 var sinon = require('sinon');
 
-var DashcoreLib = require('../../../index');
+var NPCcoincoreLib = require('../../../index');
 
-var PrivateKey = DashcoreLib.PrivateKey;
-var BufferUtil = DashcoreLib.util.buffer;
-var Payload = DashcoreLib.Transaction.Payload;
+var PrivateKey = NPCcoincoreLib.PrivateKey;
+var BufferUtil = NPCcoincoreLib.util.buffer;
+var Payload = NPCcoincoreLib.Transaction.Payload;
 var SubTxTransitionPayload = Payload.SubTxTransitionPayload;
-var HashUtil = DashcoreLib.util.hashUtil;
+var HashUtil = NPCcoincoreLib.util.hashUtil;
 
 var CORRECT_SIGNATURE_SIZE = Payload.constants.COMPACT_SIGNATURE_SIZE;
 var privateKey = 'cSBnVM4xvxarwGQuAfQFwqDg9k5tErHUHzgWsEfD4zdwUasvqRVY';

@@ -20,7 +20,7 @@ var mnListDiffJSON = {
     {
       "proRegTxHash": "fef106ff6420f9c6638c9676988a8fc655750caafb506c98cb5ff3d4fea99a41",
       "confirmedHash": "0000000005d5635228f113b50fb5ad66995a7476ed20374e6e159f1f9e62347b",
-      "service": "45.48.177.222:19999",
+      "service": "45.48.177.222:17168",
       "pubKeyOperator": "842476e8d82327adfb9b617a7ac3f62868946c0c4b6b0e365747cfb8825b8b79ba0eb1fa62e8583ae7102f59bf70c7c7",
       "votingAddress": "yf7QHemCfbmKEncwZxroTj8JtShXsC28V6",
       "isValid": true
@@ -28,7 +28,7 @@ var mnListDiffJSON = {
     {
       "proRegTxHash": "a4d877cee62f82868034fb678436d87afbb13330d2b66a24ae1d357f0de55c68",
       "confirmedHash": "00000000069c41d7444a7da5d67f222224e9e37590c474f102ee1ae0da998f39",
-      "service": "83.80.229.213:19999",
+      "service": "83.80.229.213:17168",
       "pubKeyOperator": "16415af54406658be9ea44d82b6b502bb90d93e32997484533a8a71a4ed98d12cea3709d84a5835b6ad8ed48d3101633",
       "votingAddress": "yfKNLE5v4QTnMvj7y3JVoWEfQanD4qHWGk",
       "isValid": false
@@ -36,7 +36,7 @@ var mnListDiffJSON = {
     {
       "proRegTxHash": "a690051e69de6e36eeba664bff34e017f973d27ce91c1f2247120e8ce586b1f1",
       "confirmedHash": "0000000019091441469a98f9a8889d94e54723286fe1cd13703aa6b652fc4863",
-      "service": "149.248.55.77:19999",
+      "service": "149.248.55.77:17168",
       "pubKeyOperator": "8b165f653a3970a17f432f6c3abb8b681c71a3775f998fff322341d2994767c167c8a43b1b4661b9c01ef637763d4d81",
       "votingAddress": "yTMbtGvG722zFbkpAnBrQvJ8WXH2g2kosL",
       "isValid": false
@@ -44,7 +44,7 @@ var mnListDiffJSON = {
     {
       "proRegTxHash": "6a46c1a01ee6ed517ff35ecb9cdffde3d1d0a5bb89e8c05e916a204134d7909f",
       "confirmedHash": "00000000092935037c1cd00b67dbc09deb49f8853b101598a6b4ad1dbc177afa",
-      "service": "51.38.112.99:19999",
+      "service": "51.38.112.99:17168",
       "pubKeyOperator": "88ee437bc0ba444b71a6b8a525146e9c748a8430fc85ad47beda04bb2e5b698bca9f3d5a5d5dfdd5990cd08daa07371f",
       "votingAddress": "yZ9ZYmfby7fcLpJm9hPosEVmkY6eQ4PXA4",
       "isValid": true

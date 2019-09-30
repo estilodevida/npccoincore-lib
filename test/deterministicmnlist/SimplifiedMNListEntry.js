@@ -8,7 +8,7 @@ var Networks = require('../../lib/networks');
 var smlEntryJSON = {
   "proRegTxHash": "32e5ad5cf9a06eb13e0f65cb7ecde1a93ef24995d07355fac2ff05ebd5b9ddbf",
   "confirmedHash": "0000001960431ec5a566e69f28ae0f6fa3199bd99ec527cccd02f7541d77300c",
-  "service": "95.183.51.146:39999",
+  "service": "95.183.51.146:17168",
   "pubKeyOperator": "1326ddac1044e0219dba7dccf6b43d1deed3e897717ca06757243b02516cfa67e24026f7a317cf575b40c10e7f6bf7f0",
   "votingAddress": "yYhmQPak2w5L8KSwVw9R5wpqzPbAJ1fK7v",
   "isValid": true

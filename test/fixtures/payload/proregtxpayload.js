@@ -9,7 +9,7 @@ function getProRegPayloadJSON() {
     version: 1,
     collateralHash: 'a65693797d7137a2529f438807a8c7c085d3984ceaa2f4f5230a36b536cbd326',
     collateralIndex: 1,
-    service: '195.141.0.143:19999',
+    service: '195.141.0.143:17168',
     keyIDOwner: '3c05fb32367a25d8dedc16f741b8492006fb948a',
     pubKeyOperator: '8273ec203d1ea62cbdb54e10618329e4ed93e99bc9c5ab2f4cb0055ad281f9ad0808a1dda6aedf12c41c53142828879b',
     keyIDVoting: '3c05fb32367a25d8dedc16f741b8492006fb948a',
@@ -69,7 +69,7 @@ function getProRegTransactionJSON() {
       "version": 1,
       "collateralHash": "a65693797d7137a2529f438807a8c7c085d3984ceaa2f4f5230a36b536cbd326",
       "collateralIndex": 1,
-      "service": "195.141.0.143:19999",
+      "service": "195.141.0.143:17168",
       "keyIDOwner": "3c05fb32367a25d8dedc16f741b8492006fb948a",
       "pubKeyOperator":
         "8273ec203d1ea62cbdb54e10618329e4ed93e99bc9c5ab2f4cb0055ad281f9ad0808a1dda6aedf12c41c53142828879b",

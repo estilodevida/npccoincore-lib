@@ -85,7 +85,7 @@ module.exports = {
         {
           "proRegTxHash": "c6eee81fd38e6db24cb5e847794cefca7f3f8f95a066028bb8dfd6f36fb92921",
           "confirmedHash": "0000000000d9ba93b25a135dc9ccba58d94ec50c7bdd62c20bb800a9c5486690",
-          "service": "104.248.242.126:19999",
+          "service": "104.248.242.126:17168",
           "pubKeyOperator": "050f3a743867bf78d2e9a3906d15d8400d8d58255771d12828922386e8685f8aeccb8d9d81153f9c2d7da0436a71fe55",
           "votingAddress": "yRRwW957BJwL6SVVh3s8ASQYa2qXnduyfx",
           "isValid": false
@@ -93,7 +93,7 @@ module.exports = {
         {
           "proRegTxHash": "fef106ff6420f9c6638c9676988a8fc655750caafb506c98cb5ff3d4fea99a41",
           "confirmedHash": "0000000005d5635228f113b50fb5ad66995a7476ed20374e6e159f1f9e62347b",
-          "service": "45.48.177.222:19999",
+          "service": "45.48.177.222:17168",
           "pubKeyOperator": "842476e8d82327adfb9b617a7ac3f62868946c0c4b6b0e365747cfb8825b8b79ba0eb1fa62e8583ae7102f59bf70c7c7",
           "votingAddress": "yf7QHemCfbmKEncwZxroTj8JtShXsC28V6",
           "isValid": false
@@ -101,7 +101,7 @@ module.exports = {
         {
           "proRegTxHash": "86b8061fb7fe866b492b84e85aa0548f68ff376c4cbc5893e46ae361a5e57241",
           "confirmedHash": "00000012b002b15f3b0e003502f37b181f158efa3392de3139cfffa4f79fafbb",
-          "service": "109.235.71.56:19999",
+          "service": "109.235.71.56:17168",
           "pubKeyOperator": "8d1412ff39045ef39c2e19a75cb3ad986afc14c3139ed0a3392b41d471558676029a8137f95b0ba0e7315bf11c497f0f",
           "votingAddress": "yeZknaGXQ3Sf7o22MxByRzeYdbRK2JKPDu",
           "isValid": true
@@ -109,7 +109,7 @@ module.exports = {
         {
           "proRegTxHash": "fbb1a1aa283faeb8082a7331c5010f13272f7ce6cb24845b3d1f260f7cb75423",
           "confirmedHash": "0000002910988f956b7d9199e4fddfd9462d79aa1c6e43205dce157d208e4ab0",
-          "service": "173.61.30.231:19012",
+          "service": "173.61.30.231:17168",
           "pubKeyOperator": "96a9d730b5800ad10d2fb52b0067b5145d763b227fccb90f37f14f94afd9a9927776f9af8cfcd271f9ce9d06b97af01a",
           "votingAddress": "yc8Ji5CgQujxfxcP8eCqu82WoBD16tcGnt",
           "isValid": false
@@ -117,7 +117,7 @@ module.exports = {
         {
           "proRegTxHash": "211cde8df97129edd3a5558378d5f7974c08d95a8197190f0fac3aafbd5d84e3",
           "confirmedHash": "0000000ae0cd2a094068ba7ffb6ef20242b08b748ffbb517ebd56fc77680ef78",
-          "service": "18.202.52.170:20048",
+          "service": "18.202.52.170:17168",
           "pubKeyOperator": "0a10b1fec64669c47086bc0f1d48ea6b37045f7e46c73c5ec41f7576653d7a6d7c79bd1215f16675bb31a59a7137241b",
           "votingAddress": "yXqv5ad6ujBxqThyinopZHK1as8UWcLcVW",
           "isValid": true
@@ -125,7 +125,7 @@ module.exports = {
         {
           "proRegTxHash": "04d06d16b3eca2f104ef9749d0c1c17d183eb1b4fe3a16808fd70464f03bcd63",
           "confirmedHash": "00000005d7fd53d3400f4d79d22d41cd1684be4a512f6cfdc266ade5081b5279",
-          "service": "45.32.237.76:19999",
+          "service": "45.32.237.76:17168",
           "pubKeyOperator": "02a2e2673109a5e204f8a82baf628bb5f09a8dfc671859e84d2661cae03e6c6e198a037e968253e94cd099d07b98e94e",
           "votingAddress": "yMLrhooXyJtpV3R2ncsxvkrh6wRennNPoG",
           "isValid": true
@@ -133,7 +133,7 @@ module.exports = {
         {
           "proRegTxHash": "af382fe86ca47698a3606d976e50251488167eeec3a5cda9fd9d9b3a2823ba83",
           "confirmedHash": "0000004c7bba7e46b583731f0930c9a3b0033e268f87bccf9a5e44793d634a5a",
-          "service": "18.202.52.170:20028",
+          "service": "18.202.52.170:17168",
           "pubKeyOperator": "9446b87f833f500e114d024d50024278f22d773111e8e5601e05178005298e5fc2933e400e235c0a51417872f68cc20d",
           "votingAddress": "yXBtycNjthg5vzo4gs9q6AmoWwZfDxFArC",
           "isValid": true
@@ -149,7 +149,7 @@ module.exports = {
         {
           "proRegTxHash": "682b3e58e283081c51f2e8e7a7de5c7312a2e8074affaf389fafcc39c4805404",
           "confirmedHash": "00000018c824355520c6a850076c041b533d05cbe481f8187e541d7e2f856def",
-          "service": "64.193.62.206:19999",
+          "service": "64.193.62.206:17168",
           "pubKeyOperator": "05f2269374676476f00068b7cb168d124b7b780a92e8564e18edf45d77497abd9debf186ee98001a0c9a6dfccbab7a0a",
           "votingAddress": "yid7uAsVJzvSLrEekHuGNuY3KWCqJopyJ8",
           "isValid": false

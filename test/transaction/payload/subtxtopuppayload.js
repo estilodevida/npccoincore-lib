@@ -4,8 +4,8 @@
 var expect = require('chai').expect;
 var sinon = require('sinon');
 
-var DashcoreLib = require('../../../index');
-var SubTxTopupPayload = DashcoreLib.Transaction.Payload.SubTxTopupPayload;
+var NPCcoincoreLib = require('../../../index');
+var SubTxTopupPayload = NPCcoincoreLib.Transaction.Payload.SubTxTopupPayload;
 
 var validSubTxTopupPayloadJSON = {
   version: 1,

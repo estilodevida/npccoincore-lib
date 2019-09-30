@@ -8,7 +8,7 @@ function getProUpServPayloadJSON() {
   return {
     version: 1,
     proTxHash: 'c873f15c82a7d9bbbb21e35098812eac448b6491108a94e9b1863be3a300117b',
-    service: '195.141.143.49:19999',
+    service: '195.141.143.49:17168',
     operatorPayoutAddress: 'yRyv33x1PzwSTW3B2DV3XXRyr7Z5M2P4V7',
     inputsHash: 'ebf12c57c0eed0baa83f60658255d09ceda05d2802d46eba80643e9f7885763f',
   };
@@ -61,7 +61,7 @@ function getProUpServTransactionJSON() {
     "proUpServTx": {
       "version": 1,
       "proTxHash": "c873f15c82a7d9bbbb21e35098812eac448b6491108a94e9b1863be3a300117b",
-      "service": "195.141.143.49:19999",
+      "service": "195.141.143.49:17168",
       "operatorPayoutAddress": "yRyv33x1PzwSTW3B2DV3XXRyr7Z5M2P4V7",
       "inputsHash": "ebf12c57c0eed0baa83f60658255d09ceda05d2802d46eba80643e9f7885763f"
     },
