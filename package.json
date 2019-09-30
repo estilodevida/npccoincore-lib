@@ -14,70 +14,22 @@
     "build": "webpack --display-error-details"
   },
   "contributors": [
-    {
-      "name": "Estilodevida",
-      "email": "estilodevidanpc@gmail.com"
-    },
-    {
-      "name": "Daniel Cousens",
-      "email": "bitcoin@dcousens.com"
-    },
-    {
-      "name": "Esteban Ordano",
-      "email": "eordano@gmail.com"
-    },
-    {
-      "name": "Gordon Hall",
-      "email": "gordon@bitpay.com"
-    },
-    {
-      "name": "Jeff Garzik",
-      "email": "jgarzik@bitpay.com"
-    },
-    {
-      "name": "Kyle Drake",
-      "email": "kyle@kyledrake.net"
-    },
-    {
-      "name": "Manuel Araoz",
-      "email": "manuelaraoz@gmail.com"
-    },
-    {
-      "name": "Matias Alejo Garcia",
-      "email": "ematiu@gmail.com"
-    },
-    {
-      "name": "Ryan X. Charles",
-      "email": "ryanxcharles@gmail.com"
-    },
-    {
-      "name": "Stefan Thomas",
-      "email": "moon@justmoon.net"
-    },
-    {
-      "name": "Stephen Pair",
-      "email": "stephen@bitpay.com"
-    },
-    {
-      "name": "Wei Lu",
-      "email": "luwei.here@gmail.com"
-    },
-    {
-      "name": "UdjinM6",
-      "email": "UdjinM6@gmail.com"
-    },
-    {
-      "name": "Jon Kindel",
-      "email": "jon@npccoin.com"
-    },
-    {
-      "name": "Alex Werner",
-      "email": "alex@werner.fr"
-    },
-    {
-      "name": "Anton Suprunchuk",
-      "email": "antouhou@gmail.com"
-    }
+    "Estilodevida <estilodevidanpc@gmail.com>",
+    "Daniel Cousens <bitcoin@dcousens.com>",
+    "Esteban Ordano <eordano@gmail.com>",
+    "Gordon Hall <gordon@bitpay.com>",
+    "Jeff Garzik <jgarzik@bitpay.com>",
+    "Kyle Drake <kyle@kyledrake.net>",
+    "Manuel Araoz <manuelaraoz@gmail.com>",
+    "Matias Alejo Garcia <ematiu@gmail.com>",
+    "Ryan X. Charles <ryanxcharles@gmail.com>",
+    "Stefan Thomas <moon@justmoon.net>",
+    "Stephen Pair <stephen@bitpay.com>",
+    "Wei Lu <luwei.here@gmail.com>",
+    "UdjinM6 <UdjinM6@gmail.com>",
+    "Jon Kindel <jon@npccoin.com>",
+    "Alex Werner <alex@werner.fr>",
+    "Anton Suprunchuk <antouhou@gmail.com>"
   ],
   "keywords": [
     "npccoin",
@@ -98,7 +50,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/npccoin/npccoincore-lib.git"
+    "url": "git+https://github.com/npccoin/npccoincore-lib.git"
   },
   "bugs": {
     "url": "https://github.com/npccoin/npccoincore-lib/issues"
@@ -140,5 +92,10 @@
     "uglifyjs-webpack-plugin": "^1.3.0",
     "webpack": "^3.12.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  }
 }
