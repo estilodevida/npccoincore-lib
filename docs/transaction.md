@@ -3,7 +3,7 @@ NPCcoincore provides a very simple API for creating transactions. We expect this
 
 A Transaction contains a set of inputs and a set of outputs. Each input contains a reference to another transaction's output, and a signature that allows the value referenced in that output to be used in this transaction.
 
-Note also that an output can be used only once. That's why there's a concept of "change address" in the NPCcoin ecosystem: if an output of 10 DASH is available for me to spend, but I only need to transmit 1 DASH, I'll create a transaction with two outputs, one with 1 DASH that I want to spend, and the other with 9 DASH to a change address, so I can spend this 9 DASH with another private key that I own.
+Note also that an output can be used only once. That's why there's a concept of "change address" in the NPCcoin ecosystem: if an output of 10 NPC is available for me to spend, but I only need to transmit 1 NPC, I'll create a transaction with two outputs, one with 1 NPC that I want to spend, and the other with 9 NPC to a change address, so I can spend this 9 NPC with another private key that I own.
 
 So, in order to transmit a valid transaction, you must know what other transactions on the network store outputs that have not been spent and that are available for you to spend (meaning that you have the set of keys that can validate you own those funds). The unspent outputs are usually referred to as "utxo"s.
 
@@ -29,7 +29,7 @@ You can also override the fee estimation with another amount, specified in satos
 
 ```javascript
 var transaction = new Transaction().fee(5430); // Minimum non-dust amount
-var transaction = new Transaction().fee(1e8);  // Generous fee of 1 DASH
+var transaction = new Transaction().fee(1e8);  // Generous fee of 1 NPC
 ```
 
 ## Multisig Transactions
