@@ -10,3 +10,5 @@ coverage
 
 # ignore distribution files
 dist/
+lib/.DS_Store
+.DS_Store
