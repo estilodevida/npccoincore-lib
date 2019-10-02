@@ -61,7 +61,7 @@
   },
   "dependencies": {
     "multi-hashing": "^0.0.4",
-    "x11-hash-js": "^1.0.2",
+    "@dashevo/x11-hash-js": "^1.0.2",
     "bloom-filter": "^0.2.0",
     "bn.js": "=4.11.8",
     "bs58": "=4.0.1",
