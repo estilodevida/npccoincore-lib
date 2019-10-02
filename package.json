@@ -60,7 +60,6 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "multi-hashing": "^0.0.4",
     "@dashevo/x11-hash-js": "^1.0.2",
     "bloom-filter": "^0.2.0",
     "bn.js": "=4.11.8",
