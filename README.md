@@ -1,7 +1,7 @@
 # NPCcoincore Library
 
 [![Build Status](https://img.shields.io/travis/npccoin/npccoincore-lib.svg?branch=master)](https://travis-ci.org/npccoin/npccoincore-lib)
-[![NPM Package](https://img.shields.io/npm/v/@npccoin/npccoincore-lib.svg)](https://www.npmjs.org/package/@npccoin/npccoincore-lib)
+[![NPM Package](https://img.shields.io/npm/v/npccoincore-lib.svg)](https://www.npmjs.org/package/npccoincore-lib)
 
 > A pure and powerful JavaScript NPCcoin library.
 
@@ -19,7 +19,7 @@ NPCcoin is a powerful new peer-to-peer platform for the next generation of finan
 ### NodeJS
 
 ```
-npm install @npccoin/npccoincore-lib
+npm install npccoincore-lib
 ```
 
 ### Browser
